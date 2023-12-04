@@ -8,7 +8,6 @@ target/
 ### ENV FILES ###
 .env
 
-
 ### STS ###
 .apt_generated
 .classpath
